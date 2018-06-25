@@ -4,7 +4,7 @@ På A0 papir og med farvede post-it skal i lave et Kanban Board over de opgave i
 
 Som udgangspunkt skal i have en TODO, en Doing, og en Done kolonne.
 
-![Kanban](Screen Shot 2018-03-11 at 21.41.21.png)
+![](./Screen Shot 2018-03-11 at 21.41.21.png)
 
 Hvis det giver mening for jer er i velkomne til at udvide med flere kolonner.  
 
@@ -15,6 +15,6 @@ Det er ikke alle opgaver i på nuværende tidspunkt vil kunne tildele til en bes
 
 I skal også estimere hvor lang tid hver opgav kommer til at tage. og i skal være opmærksomme på om en opgave er afhængig af en anden eller andre opgaver.
 
-![Kanban](Screen Shot 2018-03-11 at 21.12.19.png)
+![](./Screen Shot 2018-03-11 at 21.12.19.png)
 
 I kommer til at arbejde med denne opgave en times tid fra nu af, og herefter går vi rundt til alle grupper og ser på det Kanban board i har udviklet.
