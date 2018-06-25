@@ -17,8 +17,10 @@ Det er ikke alle opgaver i på nuværende tidspunkt vil kunne tildele til en bes
 
 I skal også estimere hvor lang tid hver opgav kommer til at tage. og i skal være opmærksomme på om en opgave er afhængig af en anden eller andre opgaver.    
 
-![](kanban2.png)
+![](kanban_2.png)
    
 
 
 I kommer til at arbejde med denne opgave en times tid fra nu af, og herefter går vi rundt til alle grupper og ser på det Kanban board i har udviklet.
+
+&copy; Kea, clbo, 2018
